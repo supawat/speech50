@@ -1,7 +1,9 @@
-# speech50
+# Speech50
 Chrome extension text to speech by web API
 
-#### Video Demo:  <URL HERE>
+Source code  : https://github.com/supawat/speech50 or cs50 IDE in my project folder
+
+#### Video Demo:  https://youtu.be/D76RUh_OsAM
 
 #### Description:
 
@@ -51,7 +53,6 @@ How to set default language of text to speech
     2. Goto chrome://extensions
     3. Find Chrome extension Speech50 and click "Details" .
     4. Goto Extension option and click link to option page.
-    5. Select option language that you want sat default. 
-    6. Select Rate and Pitch that you want sat default. 
-    7. Click Sat Default button.
-    
+    5. Select option language that you want to set default. 
+    6. Select Rate and Pitch that you want to set default. 
+    7. Click Set Default button.
